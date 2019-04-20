@@ -1,0 +1,22 @@
+local sides = require "sides"
+return {
+{"fed3bf2b-1375-47e8-a13a-b3243012a3f2", sides.east},
+{"2318f8fe-a24a-4d1c-b5f6-83c6c1ba73ca", sides.east},
+{"df9ea069-65f7-4140-9a4f-6a308ed9d7bd", sides.east},
+{"3ed48eea-06cc-4ad8-b54a-00253e936082", sides.east},
+
+{"9cc92b69-a72c-4d2a-86dc-93c347b31b8c", sides.west},
+{"d4ee5f71-0e13-40c1-a321-448a027a91f4", sides.west},
+{"0b3ee7f1-6012-4a41-9eb4-e54699c3fc53", sides.west},
+{"9024f357-0cef-4ac5-9b53-f4697ccc2bfd", sides.west},
+
+{"d9dfd0fe-1c4e-49dd-9e42-391c68e02f2d", sides.south},
+{"8e24770b-d968-41b1-8dcd-f79a6ff825e0", sides.south},
+{"c13d7045-a2a4-482d-b4c7-02503734225f", sides.south},
+{"e3c9e1bd-07d8-4f77-b4ab-5772bd6de630", sides.south},
+
+{"ff4e2f59-a16c-4a84-870b-649c3f00a2fb", sides.north},
+{"4ffdc112-ab73-41fc-9282-1a669968e17f", sides.north},
+{"4a5903ec-bb16-4824-849b-0a1848620c68", sides.north},
+{"d4f92c83-1ab4-4765-945d-2766c64be28c", sides.north}
+}

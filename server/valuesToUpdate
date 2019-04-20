@@ -1,0 +1,16 @@
+return {
+	{"Soldering Alloy", {name="gregtech:gt.metaitem.01", damage=11314}, 100},
+	{"Fuel Rod", {name="IC2:itemFuelRod", damage=0}, 100},
+	{"Copper", {name="gregtech:gt.metaitem.01", damage=11035}, 200},
+	{"Creosote Slab", {name="Railcraft:slab"}, 30},
+	{"Stick", {name="minecraft:stick"}, 100},
+	{"Cotton", {name="harvestcraft:wovencottonItem"}, 30},
+	{"Gold Ingot", {name="minecraft:gold_ingot"}, 100},
+	{"Uranium Quad", {name="gregtech:gt.reactorUraniumQuad"}, 10},
+	{"Thorium Quad", {name="gregtech:gt.Quad_Thoriumcell"}, 10},
+	{"Fluix dust", {name="appliedenergistics2:item.ItemMultiMaterial", damage=8}, 100},
+	{"Steel", {name="gregtech:gt.metaitem.01", damage=11305}, 200},
+	{"Uran 238", {name="IC2:itemUran238"}, 20},
+	{"Glass",{name="minecraft:glass"}, 100},
+	{"Empty can", {name="gregtech:gt.metaitem.01", damage=32402}, 100}
+}
